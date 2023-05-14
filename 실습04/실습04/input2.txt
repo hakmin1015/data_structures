@@ -1,0 +1,7 @@
+CREATE
+LOAD list.txt
+PRINT
+DELETE 양희경
+DELETE 강성규
+PRINT
+
